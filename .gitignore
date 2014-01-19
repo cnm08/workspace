@@ -1,0 +1,17 @@
+
+
+*~*
+*.o
+multidim/integral
+SampleMakefile/helloFor/hellomake
+SampleMakefile/helloFor/physics
+SampleMakefile/Area/geo
+homeradio/radiohmwk
+homeradio/hmwk.out
+a.out
+newraph/squareroot
+randemo6
+walkrand/randomwalk
+lnx.o
+adio/radio
+

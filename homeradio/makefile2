@@ -1,0 +1,8 @@
+TARGET=radiohmwk
+CXX=g++
+
+$(TARGET): hmwk.o
+	$(CXX)  hmwk.o -o $(TARGET)
+
+hmwk.o:radiohmwk.cc
+	$(CXX) -c radiohmwk.cc -o hmwk.o
